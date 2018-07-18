@@ -1,0 +1,11 @@
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\bin\Debug\netcoreapp2.1\ConcurrentDictionary.deps.json
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\bin\Debug\netcoreapp2.1\ConcurrentDictionary.runtimeconfig.json
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\bin\Debug\netcoreapp2.1\ConcurrentDictionary.runtimeconfig.dev.json
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\bin\Debug\netcoreapp2.1\ConcurrentDictionary.dll
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\bin\Debug\netcoreapp2.1\ConcurrentDictionary.pdb
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.csproj.CoreCompileInputs.cache
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.AssemblyInfoInputs.cache
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.AssemblyInfo.cs
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.dll
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.pdb
+C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.csprojAssemblyReference.cache
