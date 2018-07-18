@@ -8,4 +8,3 @@ C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\De
 C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.AssemblyInfo.cs
 C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.dll
 C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.pdb
-C:\Users\vitor.paulino\source\repos\work\Concurrency\ConcurrentDictionary\obj\Debug\netcoreapp2.1\ConcurrentDictionary.csprojAssemblyReference.cache
